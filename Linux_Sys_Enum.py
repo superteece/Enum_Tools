@@ -97,7 +97,7 @@ def main():
         elif selection == '5':
             break
         else:
-            print("Unknown Option Selected!")
+            print("\n#####Unknown Option Selected!#####\n")
 
 
 
